@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.crd-3 {
+  background-color: #cbd5e1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  color: #475569;
+  font-family: 'roboto';
+}

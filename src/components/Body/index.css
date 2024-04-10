@@ -1,0 +1,63 @@
+/* Write your CSS here */
+.crd-2 {
+  display: flex;
+  gap: 4px;
+  width: 100%;
+  height: 350px;
+}
+ul {
+  list-style-type: none;
+}
+.li-2 {
+  font-size: 19px;
+}
+.left-nv {
+  background-color: #cbd5e1;
+  width: 40%;
+  align-self: flex-start;
+  justify-self: flex-start;
+  padding: 30px;
+  box-sizing: border-box;
+  height: 350px;
+}
+.hh2 {
+  font-size: 22px;
+  font-weight: 600;
+  color: #475569;
+}
+.bx {
+  height: 120px;
+  width: 150px;
+  border: 1px solid;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 500;
+  margin: 10px;
+}
+.ul-2 {
+  list-style-type: none;
+  padding: 7px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding-top: 16px;
+}
+.dp {
+  display: none;
+}
+.right-nv {
+  background-color: #cbd5e1;
+  width: 40%;
+  align-self: flex-end;
+  justify-self: flex-end;
+  padding: 30px;
+  height: 350px;
+}
+.content {
+  background-color: #e2e8f0;
+  width: 100%;
+  padding: 30px;
+  height: 350px;
+  line-height: 1.9;
+}

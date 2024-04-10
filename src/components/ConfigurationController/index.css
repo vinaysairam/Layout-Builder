@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.ul-1 {
+  list-style-type: none;
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding-bottom: 20px;
+}
+.li-1 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.ll {
+  background-color: #475569;
+  padding-left: 80px;
+  color: white;
+  font-family: 'roboto';
+}
+.h1 {
+  padding-bottom: 20px;
+  padding-top: 10px;
+}
+* {
+  margin: 0px;
+}
